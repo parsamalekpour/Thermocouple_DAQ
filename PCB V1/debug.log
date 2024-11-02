@@ -1,0 +1,7 @@
+[0131/133109:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0131/133109:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0131/133109:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {9E38446D-B373-4E11-91C1-86F4D5A20FEC}\BrowserCache to C:\ProgramData\Altium\Altium Designer {9E38446D-B373-4E11-91C1-86F4D5A20FEC}\old_BrowserCache_000
+[0131/133109:ERROR:cache_creator.cc(129)] Unable to create cache
+[0131/133112:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0131/133112:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)

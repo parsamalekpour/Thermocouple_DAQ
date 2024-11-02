@@ -1,0 +1,11 @@
+../Core/Src/w25q.c:7:9:w25qDiskInitialize	1
+../Core/Src/w25q.c:13:6:w25qReadStatus	1
+../Core/Src/w25q.c:24:6:w25qWaitForReady	2
+../Core/Src/w25q.c:48:6:w25qSetBlockProtect	1
+../Core/Src/w25q.c:65:6:w25qReadManuf	1
+../Core/Src/w25q.c:80:6:w25qReadSector	1
+../Core/Src/w25q.c:97:6:w25qWriteSector	2
+../Core/Src/w25q.c:112:6:w25qReadPage	1
+../Core/Src/w25q.c:129:6:w25qWritePage	1
+../Core/Src/w25q.c:161:6:w25qEraseSector	1
+../Core/Src/w25q.c:191:6:w25qEraseChip	1

@@ -1,0 +1,10 @@
+../Core/Src/main.c:72:6:_w25qEraseSector	1
+../Core/Src/main.c:99:6:w25qWritingByUSB	3
+../Core/Src/main.c:128:5:main	2
+../Core/Src/main.c:200:6:SystemClock_Config	4
+../Core/Src/main.c:248:13:MX_ADC1_Init	3
+../Core/Src/main.c:295:13:MX_SPI1_Init	2
+../Core/Src/main.c:331:13:MX_DMA_Init	1
+../Core/Src/main.c:349:13:MX_GPIO_Init	1
+../Core/Src/main.c:392:6:USB_Reset	3
+../Core/Src/main.c:417:6:Error_Handler	1

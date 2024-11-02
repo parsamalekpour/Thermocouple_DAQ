@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BODY Pin=T1-0
+Removed Pin From Net: NetName=BODY Pin=T1-0
+Removed Pin From Net: NetName=BODY Pin=T2-0
+Removed Pin From Net: NetName=BODY Pin=T2-0
+Change Component Footprint: Designator=U4 Old Footprint=DSQ0010A_V New Footprint=SON40P200X200X80-11N
+Change Component Library : Designator=U4 Old Library=Altium Content Vault New Library=ParsaLibrary.SchLib
+Change Managed Component Library Link : Designator=U5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=1498956A-2B77-4096-98A4-1A5114B28165 Old RevisionGUID= New RevisionGUID=FEB3B9F9-F35F-48C0-BAD6-46BECBF4CAEF
+Added Component: Designator=D1(led-0603)
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "Designer"; Value = "Parsa Malekpour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Member To Class: ClassName=CHARGER Member=Component D1 LED
+Added Member To Class: ClassName=CHARGER Member=Component R13 1K
+Added Member To Class: ClassName=MCU Member=Component SWD CONN-3

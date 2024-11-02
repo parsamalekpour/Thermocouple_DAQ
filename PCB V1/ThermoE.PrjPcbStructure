@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=ADC|SchDesignator=ADC|FileName=ThermoE.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ThermoE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=CHARGER|SchDesignator=CHARGER|FileName=Charger.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=STM32F030C8T6.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32F030C8T6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
